@@ -3,6 +3,12 @@
 <h4 align="center">📚 Me encuentro haciendo dos Proyectos para a universidad con MysQl, Javascript,m Html y Bootraps</h4>
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
+----
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/ErnestoPorras16)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:ernestoezequiel813@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ahforoughi99/)](https://www.instagram.com/ernestop25/)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/eeporras)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=imanmalekian31)
 ---
 
 - 🌱 Actualmente estoy Aprendiendo React.
