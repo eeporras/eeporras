@@ -19,6 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
-<img src="https://cdn2.hubspot.net/hub/159642/file-18417563-png/images/html5.png" style="height: 4rem"/>
+<img src="https://www.easianetwork.com.my/wp-content/uploads/2019/07/mysql-logo.png" style="height: 4rem"/>
 
 
