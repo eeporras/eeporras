@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, Soy Ernesto Porras</h1>
 <h3 align="center">Soy Tsu en Informaáica y un entusiasta técnico de 22 años, me encuentro actualmente aprendiendo tecnologia front-end como Javascript, React, etc.</h3>
 <h4 align="center">📚 Me encuentro haciendo dos Proyectos para a universidad con MysQl, Javascript,m Html y Bootraps</h4>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 ---
 
