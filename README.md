@@ -19,6 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiftelearning.com%2Fblogshift%2Fbid%2F162868%2Frespuestas-a-las-preguntas-m-s-frecuentes-sobre-html-5-parte-i&psig=AOvVaw1hLNwqF2W89qUIbWo2E1nm&ust=1702000300673000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCBlK6b_IIDFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiftelearning.com%2Fblogshift%2Fbid%2F162868%2Frespuestas-a-las-preguntas-m-s-frecuentes-sobre-html-5-parte-i&psig=AOvVaw1hLNwqF2W89qUIbWo2E1nm&ust=1702000300673000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCBlK6b_IIDFQAAAAAdAAAAABAD" style="height: 4rem"/>
+<img src="https://cdn2.hubspot.net/hub/159642/file-18417563-png/images/html5.png" style="height: 4rem"/>
 
 
